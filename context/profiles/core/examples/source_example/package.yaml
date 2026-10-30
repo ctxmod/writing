@@ -1,0 +1,10 @@
+description: >-
+  The module's worked example of a well-formed package: a package.yaml
+  entrypoint, content domains (rules/, reference/) carrying the module's
+  only live citations, and a directory-form source (sources/example/)
+  those citations would resolve against — chunks with declared locators,
+  a summary citing chunks through implicit path specifiers, and the
+  citation forms taught inside code spans elsewhere. Examples are never
+  processed: everything here demonstrates structure without
+  participating in resolution.
+binds_to_depth: main...

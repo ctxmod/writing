@@ -1,0 +1,9 @@
+extends:
+  - github.com/ctxmod/writing/context/profiles/core
+title: Writing — American English
+description: >-
+  American English surface conventions: spelling, punctuation, and
+  date/number/currency formats, layered over the shared craft core.
+packages:
+  add:
+    - conventions

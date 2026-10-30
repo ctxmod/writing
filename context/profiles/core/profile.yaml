@@ -1,0 +1,10 @@
+title: Writing Core
+description: >-
+  Shared base for every writing profile: craft fundamentals, document
+  structure, and mechanics shared by both major English dialects. Every
+  other writing profile extends this one.
+packages:
+  defaults:
+    - basics
+    - structure
+    - mechanics
