@@ -1,0 +1,5 @@
+description: >-
+  Punctuation, capitalization, sentence boundaries, confusion pairs,
+  number/date ground rules, and the literal-`@` escape discipline this
+  module's own content depends on.
+binds_to_depth: main...

@@ -1,0 +1,10 @@
+extends:
+  - github.com/ctxmod/writing/context/profiles/core
+title: Writing — Prose
+description: >-
+  Essays, articles, and long-form prose for general audiences: openings,
+  visible reasoning, evidence discipline, and document shapes that hold
+  an argument together.
+packages:
+  add:
+    - forms

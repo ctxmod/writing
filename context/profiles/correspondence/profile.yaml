@@ -1,0 +1,10 @@
+extends:
+  - github.com/ctxmod/writing/context/profiles/core
+title: Writing — Correspondence
+description: >-
+  Email, letter, and memo writing: subject lines that carry the topic and
+  the ask, explicit requests, scannable structure, and register tiers for
+  professional correspondence.
+packages:
+  add:
+    - forms

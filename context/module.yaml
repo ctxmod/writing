@@ -1,0 +1,11 @@
+title: Writing
+description: >-
+  General English writing doctrine: craft fundamentals, document
+  structure, shared mechanics, British and American English surface
+  conventions, and writing-type guidance for correspondence, technical
+  documentation, and prose. Consumers select the core by default, one
+  dialect profile for surface conformance, and any writing-type
+  profiles for the task at hand.
+path: github.com/ctxmod/writing/context
+default_profiles:
+  - core

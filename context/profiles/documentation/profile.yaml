@@ -1,0 +1,10 @@
+extends:
+  - github.com/ctxmod/writing/context/profiles/core
+title: Writing — Documentation
+description: >-
+  Technical and professional documentation: task-oriented procedures,
+  terminology discipline, document-type selection, and the style
+  mechanics of reference prose.
+packages:
+  add:
+    - forms

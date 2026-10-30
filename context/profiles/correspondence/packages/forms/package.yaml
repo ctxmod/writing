@@ -1,0 +1,4 @@
+description: >-
+  Doctrine for email, letters, and memos: subject lines, explicit asks,
+  scannability, and shape templates per correspondence kind.
+binds_to_depth: main...
