@@ -73,4 +73,4 @@ Validate that documentation files contain all required elements for their docume
 
 - <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::procedures@documentation/reference/structure_validation.md" />
 - <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::procedures@documentation/reference/inventory.md" />
-- `completeness` (module `agentic`, profile `workflows`, package `validation`)
+- `completeness` (module `agentic`, profile `workflows`, skill `validation_procedure`)

@@ -74,4 +74,4 @@ Verify that documentation follows structural conventions: heading hierarchy, sec
 
 - <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::procedures@documentation/reference/completeness_check.md" />
 - <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::procedures@documentation/reference/inventory.md" />
-- `standards` (module `agentic`, profile `workflows`, package `validation`)
+- `standards` (module `agentic`, profile `workflows`, skill `validation_procedure`)
