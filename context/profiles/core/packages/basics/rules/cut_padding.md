@@ -18,3 +18,15 @@ information is a candidate. Single-word fillers go the same way:
 a sentence's truth, only its length. Keep the intensity only where it
 is doing measurable work ("a very fast fall" where the speed is the
 point).
+
+## Restatement
+
+A clause earns its place by adding information. Restating the
+preceding clause in other words is never acceptable, however well
+written: keep the more concrete formulation and cut the other. The
+forms a restatement takes — colon or comma clauses that say it again,
+spelled-out implications the reader already drew, paired
+near-synonyms doing one job, the same claim repeated across sections,
+and adjacent sentences doing one job twice — and what does not count
+(a distinct fact, a tail that carries a new result, overlap that a
+structured field requires) are in [redundancy.md](../reference/redundancy.md).

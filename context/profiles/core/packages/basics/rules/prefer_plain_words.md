@@ -19,3 +19,17 @@ first use in any document that might outlive that audience.
 Worked replacements: `utilize → use`, `prior to → before`,
 `in order to → to`, `at this point in time → now`,
 `is able to → can`.
+
+## Precision and idiom
+
+Use precise technical terms when they do real work, and leave
+buzzwords unstacked; write natural idiom with neither stiffness nor
+over-selling. When shortening, choose content away rather than
+replacing concrete words with abstractions. When a text makes a claim
+about technology, be as specific as the claim requires: name the
+system, layer, or practice the claim is about, so the claim can be
+checked; the umbrella term is right only when the category itself is
+the subject, the term is discussed, it is part of a quotation or
+official name, or professional copy introduces a familiar category and
+then says what the work is. The worked pairs are in
+[diction.md](../reference/diction.md).

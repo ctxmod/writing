@@ -1,0 +1,7 @@
+description: >-
+  The whole-to-detail model: each part first gives the reader the
+  frame the following detail presupposes, at every level from
+  document to paragraph; its five-question review test and the
+  late-relevance symptom; and reader order, the funnel with its four
+  placement tiers (say now, make available, appendix, omit).
+binds_to_depth: main...
