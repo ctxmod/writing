@@ -1,0 +1,6 @@
+description: >-
+  The standing quality gate every outward draft passes before it is
+  reported done: read the governing rules before drafting,
+  self-review against the tests, run the consuming repository's
+  mechanical scan, and validate with the whole gate.
+binds_to_depth: main...
