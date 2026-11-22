@@ -77,4 +77,4 @@ Identify code units that lack corresponding documentation by comparing source co
 
 - <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::procedures@documentation/reference/inventory.md" />
 - <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::procedures@documentation/reference/api_documentation.md" />
-- `broad_scan` (module `agentic`, profile `workflows`, package `discovery`)
+- `broad_scan` (module `agentic`, profile `workflows`, skill `discovery_procedure`)

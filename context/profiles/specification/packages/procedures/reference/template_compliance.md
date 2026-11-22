@@ -79,4 +79,4 @@ Verify that specification documents conform to their required template structure
 
 - <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::procedures@specification/reference/sme_review.md" />
 - <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::procedures@documentation/reference/structure_validation.md" />
-- `standards` (module `agentic`, profile `workflows`, package `validation`)
+- `standards` (module `agentic`, profile `workflows`, skill `validation_procedure`)

@@ -48,5 +48,5 @@ Procedures for formal specifications: template compliance, SME review, version t
 
 ## Related
 
-- `creation` and `organization` (module `agentic`, profile `workflows`, package `reporting`, skill `writing_procedure`)
-- `standards` (module `agentic`, profile `workflows`, package `validation`, skill `validation_procedure`)
+- `creation` and `organization` (module `agentic`, profile `workflows`, skill `writing_procedure`)
+- `standards` (module `agentic`, profile `workflows`, skill `validation_procedure`)

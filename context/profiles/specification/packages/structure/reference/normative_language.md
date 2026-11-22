@@ -51,7 +51,7 @@ A validation framework that grades its findings maps RFC 2119 keywords to severi
 | SHOULD / SHOULD NOT | Warning | Strong recommendation, should fix |
 | MAY / OPTIONAL | Info | Truly optional, may fix |
 
-See the `validation_objective` skill (module `agentic`, profile `workflows`, package `validation`).
+See the `validation_objective` skill (module `agentic`, profile `workflows`).
 
 ## Normative vs Imperative
 
@@ -284,4 +284,4 @@ When in doubt, use imperative language. Normative language creates formal obliga
 
 ## Related
 
-See `standards` (module `agentic`, profile `workflows`, package `validation`, skills `validation_procedure` and `validation_objective`).
+See `standards` (module `agentic`, profile `workflows`, skills `validation_procedure` and `validation_objective`).

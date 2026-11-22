@@ -65,4 +65,4 @@ Catalog existing documentation files to establish scope, identify gaps, and supp
 
 - <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::procedures@documentation/reference/structure_validation.md" />
 - <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::procedures@documentation/reference/organization_assessment.md" />
-- `broad_scan` (module `agentic`, profile `workflows`, package `discovery`)
+- `broad_scan` (module `agentic`, profile `workflows`, skill `discovery_procedure`)
