@@ -33,3 +33,11 @@ Length follows the argument. A length target is a guide and never itself a reaso
 
 The `scholarly_prose` profile of the writing_academic module holds the general academic craft this genre draws on: composition, revision, voice, rhythm, limitations and citations. Where it conflicts with a house ruling, the consumer's own house-style layer decides.
 
+
+## Language
+
+The genre has no language delta of its own. A Swedish essay follows the Swedish language rules (the `writing_sv` module's `core` profile), and where an essay exists in two languages, the order in which the original and its version are written, and how the version is written from the original's facts, is in the `translation` profile of this module and, for Swedish, in its `writing_sv` application (profile `webb`, package `genrer`, "Originalet först").
+
+## Status
+
+This genre doctrine was seeded as a placeholder, with research into essay craft still pending; until that research lands, the general principles of the `core` profile carry everything the genre has not ruled. What this file holds is the doctrine ruled so far, mostly in editorial feedback rounds on early essay drafts. New rulings from essay feedback enter here, or in the `core` profile when they hold for every genre, through the feedback-to-rules method (the `writing_context` module's `derivation` profile).
