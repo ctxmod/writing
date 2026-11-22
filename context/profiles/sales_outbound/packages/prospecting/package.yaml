@@ -1,0 +1,7 @@
+description: >-
+  Prospect targeting and contact discovery for B2B outreach:
+  targeting by situation (the business situations that make an
+  outreach relevant, public sources, a prospect dossier template),
+  and finding a business email address from public sources by pattern
+  inference with confidence levels and verification.
+binds_to_depth: main...

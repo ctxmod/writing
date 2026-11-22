@@ -1,0 +1,6 @@
+description: >-
+  Specification procedures: template compliance checks,
+  subject-matter-expert review cycles and approval gates, version
+  tracking with change approval and deprecation paths, and migration
+  planning for restructuring a specification.
+binds_to_depth: main...

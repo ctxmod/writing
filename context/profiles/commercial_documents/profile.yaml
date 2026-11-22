@@ -1,0 +1,16 @@
+extends:
+  - github.com/ctxmod/writing/context/profiles/core
+title: Writing — Commercial Documents
+description: >-
+  Commercial documents (offers, project descriptions, agreements): the
+  whole-to-detail funnel applied to a whole document and its parts, the
+  appendix rule that keeps the main document short, the three-part price
+  test, list placement, the stating register, and per-kind guidance. A
+  commercial document asks its reader to decide something or binds both
+  parties to what was decided. Swedish conventions live in the
+  writing_sv module's affarsdokument profile. Distinct from the
+  documentation profile, which covers technical documentation.
+packages:
+  add:
+    - principles
+    - kinds

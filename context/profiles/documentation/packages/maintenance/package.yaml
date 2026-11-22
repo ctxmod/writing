@@ -1,0 +1,6 @@
+description: >-
+  Keeping documentation true over time: how content evolves with the
+  system it describes (deprecation, consolidation, migration of
+  pages) and how documentation is reviewed for accuracy,
+  completeness, and findability.
+binds_to_depth: main...

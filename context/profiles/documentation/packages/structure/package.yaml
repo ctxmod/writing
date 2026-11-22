@@ -1,0 +1,5 @@
+description: >-
+  Structure of documentation: navigation across multi-document trees,
+  construction of self-contained sections, and section hierarchy
+  within and across pages.
+binds_to_depth: main...

@@ -20,3 +20,11 @@ words are shared with the other variety. Where a proper name or an
 established technical term fixes another spelling (`Colour Revision`
 as a product name, a quoted British text), the fixed spelling wins
 over the house set.
+
+The test is consistency within a document: a text that mixes
+"organise" with "organize", or "colour" with "behavior", reads as
+unedited, whichever variety it leans towards. American spelling is
+also the convention of the software industry and of most international
+technical markets, which makes it the usual choice for English
+technical and commercial text written outside an English-speaking
+country.

@@ -1,10 +1,18 @@
 title: Writing Core
 description: >-
-  Shared base for every writing profile: craft fundamentals, document
-  structure, and mechanics shared by both major English dialects. Every
-  other writing profile extends this one.
+  Shared base for every writing profile: craft fundamentals, the
+  whole-to-detail model with its review test and reader order, the
+  claims-and-evidence doctrine, the anti-pattern catalogue written as
+  tests with narrow exceptions, the standing quality gate for outward
+  prose, document structure, and mechanics shared by both major English
+  dialects. Every other writing profile extends this one, and every
+  rule holds for all writing regardless of language or genre.
 packages:
   defaults:
     - basics
     - structure
     - mechanics
+    - whole_to_detail
+    - claims
+    - anti_patterns
+    - process

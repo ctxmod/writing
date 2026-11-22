@@ -20,3 +20,17 @@ numerals-and-words split from the shared number rules, and hold each
 format family — dates, times, money, percent — to one style per
 document; a page that mixes `9:30 a.m.` with `09:30` reads as
 unfinished rather than varied.
+
+A date a reader sees is written out with the month as a word, in body
+text and in any visible "Published" or "Updated" line; ISO dates
+(`2025-04-15`) belong in frontmatter and other machine fields, where
+software reads them. A text that has been substantively revised shows
+its publication date and its update date as two separate dates:
+
+> The essay was first published on April 15, 2025. (body text)
+>
+> Published April 15, 2025 · Updated May 2, 2025 (visible byline or footer)
+>
+> `published: 2025-04-15` (frontmatter)
+
+A numeric range takes an unspaced en dash: `2018–2024`, `pages 12–18`.
