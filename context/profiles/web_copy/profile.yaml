@@ -1,0 +1,12 @@
+extends:
+  - github.com/ctxmod/writing/context/profiles/core
+title: Writing — Web Copy
+description: >-
+  Web copy (site pages, interface messages, consulting and service site
+  text, pitches): the opening that says what the work actually is, the
+  buzzword-lead test, one statement per claim across a page, the
+  stating register, and the external-terminology exception. Its reader
+  skims to judge whether the work is relevant to them.
+packages:
+  add:
+    - principles

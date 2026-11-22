@@ -1,0 +1,8 @@
+description: >-
+  Translation doctrine for both directions: a translated text is read
+  by someone who never sees the original, so the target text is
+  written as if it had been written first — the facts carried over,
+  the structure, idiom, and conventions the target language's own;
+  one term per concept, the original written first, machine and agent
+  drafts as editor input, and idiom written from the facts.
+binds_to_depth: main...

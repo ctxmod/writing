@@ -1,0 +1,14 @@
+extends:
+  - github.com/ctxmod/writing/context/profiles/core
+title: Writing — Translation
+description: >-
+  Translation between languages (written for Swedish and English, in
+  either direction): the target text is written from the facts of the
+  original in the target language's own structure, idiom, and
+  conventions, with one term per concept, the original written first,
+  and machine or agent drafts treated as editor input. The Swedish
+  application and the terminology and parallel-language digest live in
+  the writing_sv module.
+packages:
+  add:
+    - principles
