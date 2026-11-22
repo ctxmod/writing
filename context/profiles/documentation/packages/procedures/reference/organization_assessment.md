@@ -70,5 +70,5 @@ Evaluate how documentation files organize within their directory hierarchy. Iden
 ## Related
 
 - <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::procedures@documentation/reference/inventory.md" />
-- <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::procedures@specification/reference/migration_planning.md" />
+- `migration_planning` (module `writing`, profile `specification`, package `procedures`)
 - `ssot` (module `engineering`, profile `principles`, package `design`)
