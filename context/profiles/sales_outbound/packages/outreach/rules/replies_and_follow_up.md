@@ -1,6 +1,6 @@
 # Replies and follow-up
 
-Correspondence `messages.md` governs replies and threads for every message: a reply answers what was actually written, and a resolved thread is not pivoted to a new topic ([messages.md](../../../../correspondence/packages/replies/reference/messages.md)). Correspondence hands follow-up in a sales thread to this file. Two owner rulings shape it: the fixed cadence for an unanswered first contact is kept, and follow-up for a reason is kept beside it.
+Correspondence `messages.md` governs replies and threads for every message: a reply answers what was actually written, and a resolved thread is not pivoted to a new topic ([messages.md](../../../../correspondence/packages/replies/reference/messages.md)). Correspondence hands follow-up in a sales thread to this file. Two rules shape it: the fixed cadence for an unanswered first contact is kept, and follow-up for a reason is kept beside it.
 
 ## Answering a reply
 
