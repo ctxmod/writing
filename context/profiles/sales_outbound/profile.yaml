@@ -1,0 +1,20 @@
+extends:
+  - github.com/ctxmod/writing/context/profiles/correspondence
+title: Writing — Sales Outbound
+description: >-
+  Sales outreach (cold first contact, introductions and referral asks,
+  follow-up, calls and meetings booked to sell, credibility, offers and
+  price in messages): applies the correspondence doctrine to the sales
+  situation, with the consolidated cold-email craft (four-part shape,
+  personalization, length and form, a worked contrast), the outbound
+  working order from intent to outcome with information selection, and
+  the plain-spoken register; plus prospect targeting by situation,
+  business email discovery, and the GDPR and ePrivacy posture for cold
+  B2B email. A consuming repository extends it and keeps only its own
+  mechanics (record schemas, registers of offers and claims, sender
+  identity, compliance controls, send routines).
+packages:
+  add:
+    - outreach
+    - prospecting
+    - compliance
