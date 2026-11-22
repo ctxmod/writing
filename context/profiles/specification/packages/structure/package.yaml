@@ -1,0 +1,7 @@
+description: >-
+  Specification structure: normative language (RFC 2119/8174
+  keywords, conformance classes, testable requirements), the
+  specification document schema, the technical-specification file
+  structure, and the directory and file organization of multi-file
+  specifications.
+binds_to_depth: main...
