@@ -87,14 +87,39 @@ emphasis; both fail entry 3 of the anti-pattern catalogue
 Start from the real requirement, a real case, a real decision, and an
 honest reason, and keep the technical or subject texture.
 
-Announce-then-colon. The test: does the colon deliver something the
-setup could not say directly? A colon that introduces a list, a
-definition, an example, or a turn the setup has earned is fine. A setup
-that only announces what follows ("What makes X interesting is Y: Z",
-"Here is the thing: …") fails, because the sentence could have said Y
-directly. When the setup frames what attracts, state it as a personal
-perception ("I find it especially attractive that …"), never as the
-single exhaustive reason.
+Announce-then-colon. A setup that only announces what follows ("What
+makes X interesting is Y: Z", "Here is the thing: …") fails, because
+the sentence could have said Y directly. When the setup frames what
+attracts, state it as a personal perception ("I find it especially
+attractive that …"), never as the single exhaustive reason.
+
+## No colon joins clauses in running prose
+
+No colon joins or introduces clauses in running prose, in any
+language. A colon that binds one statement to the next, or that
+introduces an explanation, an example or an elaboration inside a
+running sentence, reads as a template tell, even where a style guide
+would allow it (Isof's _Snabba skrivregler_ §1.8 does, for Swedish).
+The fix is a full stop and a new sentence, or a conjunction that names
+the relation ("because", "so"). Both of these fail (illustrative):
+
+> The setup is simple: one service, one database.
+
+> I want responsibility that lasts over time: a platform that is maintained for years.
+
+Rewritten (illustrative):
+
+> The setup is one service and one database.
+
+> I want responsibility that lasts over time. A platform should be maintained for years, not deployed once and left.
+
+The colon stays where it is not joining prose. That covers headings and
+labels ("Format:", "**Length:**"), a lead-in to a list set out as a list,
+clock times and ratios, the Swedish inflection colon (EU:s), and the
+colon before a quotation. The test is whether the colon sits between
+two pieces of running sentence, and if it does, the sentence is
+rewritten. The Swedish form
+of the rule is `skiljetecken` in the writing_sv module's core profile.
 
 AI output is an editor's input (repetition, unclear wording, grammar),
 never a generic draft to accept: the final text keeps only wording the

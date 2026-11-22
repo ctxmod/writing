@@ -72,11 +72,15 @@ A first-person result figure is allowed when the figure is true and substantiate
 
 Naming years beside a technology carries no rule here; a consuming repository may keep a local rule against it.
 
+## Motivation claims
+
+A stated motivation — appreciation of the organisation or its product, a wish to grow in an area, enjoyment of a kind of work — is a claim about the applicant and owes the same truth as a claim about their work. It is anchored on two sides, in the applicant's documented interests, held in the consuming repository's own fact base about the applicant (career direction, stored statements, dated decisions), and in concrete, verifiable facts about the organisation or its product. The advertisement is a direction and its duties are examples, so the role as advertised anchors what the applicant is curious about, never a statement of what the role is, per [cover_letter.md](cover_letter.md). A feeling, a connection or a history with the organisation is never invented. A motivation the record does not support is proposed to the applicant to confirm and marked as unconfirmed in the draft, never presented as fact. Interest in an area is not experience of it, and a motivation sentence never doubles as a skill claim.
+
 ## What survives a cut, and what ends a review
 
 The purpose bar in [claims_and_evidence.md](../../../../core/packages/claims/reference/claims_and_evidence.md) §10 sets the floor: a true, defensible entry still leaves when the purpose does not need it. Three keepables meet the bar when they meet it: a working link to a summary of the work, a third distinct example, and a technical detail that clarifies the argument. A change is never forced to satisfy a preference for uniformity; the actual defect is identified first and only what repairs it changes, per the stop rule, §11.
 
 The deletion test is the genre's cut instrument: strike the sentence; if the argument stands without it and nothing the reader needs falls, the sentence stays out. Applied to relevance transitions it exposes the real defect — strike every sentence of the "exactly what you are looking for" kind; where relevance collapses with them gone, the example or the claim's scope is wrong, and the transition is left out either way.
 
-Review runs in passes: relevance first, then factual accuracy — did responsibility, scope or causality grow in the rewriting — then language, tested by whether the text is sayable aloud at a first interview. A letter need not change just because it could be phrased differently.
+Review runs in passes: motivation first — is the text's load-bearing reason why the applicant wants to be here, or why they qualify, per [cover_letter.md](cover_letter.md) — then relevance, then factual accuracy — did responsibility, scope or causality grow in the rewriting — then language, tested by whether the text is sayable aloud at a first interview. A letter need not change just because it could be phrased differently.
 

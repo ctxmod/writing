@@ -43,7 +43,11 @@ An answer that restates the question, prefaces itself and summarises (avoid, ill
 
 An answer that starts with the answer and stops (better, illustrative):
 
-> Regulated data and applied AI together, which is where I have worked for several years and where the hard problems are.
+> Applied AI on regulated data is the area I most want to grow in, and your clinical-decision product is where that work is done for real.
+
+## Motivation questions
+
+A field that asks why the applicant is interested, why they are applying or what draws them to the organisation is a motivation question, and it is answered with motivation. That means the organisation, its product or mission, appreciated for something specific, or an area the applicant wants to grow in, or a kind of work they particularly enjoy and that the advertisement points toward, or the choice of this kind of organisation. Restating the CV — "the role matches what I already do", "I have relevant experience of …" — answers a different question, is forbidden as the answer's centre or opening, and may appear only as a brief supporting clause. The motivation is true and anchored, never invented, and naming an area is not a reason, per `cover_letter` and `claims_in_applications` in the `job_application` profile of this module. The answer asserts nothing about the organisation or the role that the applicant cannot know or check. A reference to background says something meaningful in context or is cut, and tool lists and range phrases are forbidden.
 
 ## Why the answer is short
 

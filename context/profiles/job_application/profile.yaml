@@ -2,9 +2,11 @@ extends:
   - github.com/ctxmod/writing/context/profiles/core
 title: Writing — Job Applications
 description: >-
-  Job-application material (cover letters, personal letters, CV
-  entries): the letter carries the reasoning while the CV carries the
-  inventory, evidence follows importance, transfer is delimited to named
+  Job-application material (cover letters, personal letters, interest
+  texts, CV entries): the letter carries the motivation while the CV
+  carries the inventory, a motivation text is carried by why the
+  applicant wants this work here and never by a CV retelling, evidence
+  follows importance, transfer is delimited to named
   work moments, production examples answer three questions, and the
   stable fact base keeps adaptation honest. Swedish conventions live in
   the writing_sv module's jobbansokan profile; answers in an application

@@ -26,7 +26,7 @@ Too tentative (avoid, illustrative):
 
 Better (illustrative):
 
-> I am getting in touch about the backend developer role, since it matches what I have built over the past few years.
+> I am getting in touch about the backend developer role, since your scheduling product is one I would like to help build.
 
 The subject line states the message's intent: what the sender wants with the recipient, in plain words, such as "Interest in a developer role with your team" or "Proposal for the March workshop". It never names only the territory the message touches, and a headline-style technical title ("Security-first control planes for agent fleets") fails, however accurate. A message about a specific role, assignment or position makes clear which one it concerns; when the body says only "the role", the subject line carries its name. Sales first contacts specialise this rule in the `sales_outbound` profile `first-contact.md`.
 

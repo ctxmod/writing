@@ -4,11 +4,43 @@ The letter is three to four short paragraphs, and it is carried by motivation: a
 
 ## Motivation carries the letter
 
-The first paragraph says why the applicant wants this role at this employer: the organisation or its product or mission and what the applicant concretely values in it; an area the applicant wants to grow in that the role offers; work the applicant particularly enjoys that makes up a large part of the role; or the choice of that kind of organisation. One or two genuine reasons, made concrete, are enough. The motivation is true: it is anchored in the applicant's actual career direction and in verifiable facts about the employer, and a reason with no source is proposed to the applicant for confirmation, never invented. The letter never opens with the role matching what the applicant already does: a CV retelling of why the applicant qualifies is the failure this rule exists to prevent, however well it is written.
+The first paragraph says why the applicant wants this role at this employer: the organisation or its product or mission and what the applicant concretely values in it; an area the applicant wants to grow in that the role offers; work the applicant particularly enjoys that makes up a large part of the role; or the choice of that kind of organisation. One or two genuine reasons, made concrete, are enough. The motivation is true: it is anchored in the applicant's actual career direction and in verifiable facts about the employer, and a reason with no source is proposed to the applicant for confirmation, never invented. The letter never opens with the role matching what the applicant already does: a CV retelling of why the applicant qualifies is the failure this rule exists to prevent, however well it is written. Openings of these families are forbidden (illustrative):
 
-An opening of the "I am writing to apply" family followed by a biography gives the reader a label where the frame belongs, and it fails; the letter's whole-to-detail obligation, per [whole_to_detail.md](../../../../core/packages/whole_to_detail/reference/whole_to_detail.md), is met by the motivation, in terms the role itself uses. The first-lines check closes the opening: within the first few lines a reader can identify the role, the real reason for choosing this employer, and, from the paragraph that follows, the strongest relevant evidence.
+> The role describes what I already do.
 
-In a short application email, the opening may anchor on the build the applicant is proudest of ("The system I am proudest of is …", illustrative). The pride states a real stake in real work, and the sentence stays: replacing it with a neutral placeholder such as "a relevant example" loses the anchor and makes the sentence no truer. The build it names is a real one and meets the evidence rules in [claims_in_applications.md](claims_in_applications.md).
+> I have relevant experience of …, which makes me a good fit for the role.
+
+A brief, overall reference to background is allowed in a supporting role — one clause that lets the motivation be credible, or the one or two examples the body carries — and never as the reason for applying. The test is to strike every sentence whose job is to show that the applicant qualifies, after which what remains must still say why the applicant wants this role here. If nothing remains, the letter has no motivation and is rewritten from it. Engagement is shown through specific reasons, never through enthusiasm adjectives, so "passionate about", "dream job" and their kin are cut, per [show_qualities.md](../../../../core/packages/claims/rules/show_qualities.md).
+
+## Naming an area is not a reason
+
+"Platforms and information flows are what I want to deepen" names a domain and leaves the reader asking why. The text says what in that area is interesting or rewarding to the applicant personally, tied to their experience and what they are striving for. That can be seeing a system serve people over years, understanding how the whole fits together, or seeing data put to real use. The test is whether, after the sentence that names the area, the reader could answer "why does that matter to them?" from the text alone. If not, the sentence names a domain and needs the personal reason, which obeys the same honesty as any motivation, per "Motivation claims" in [claims_in_applications.md](claims_in_applications.md).
+
+## Humility toward the role
+
+The advertisement gives a direction, and the duties it lists are examples. The work changes over time, and the applicant cannot know from the text what the role will actually contain or how the organisation is set up around it. So the text does not echo the advertisement's duties or arrangement back as facts about the role, and it asserts nothing about the organisation or the role that the applicant cannot know or check. Statements of the form "X is Y" about the employer or the work are avoided, and the text is written from the applicant's own wishes, curiosity and experience, and may be tentative where it touches the employer ("I imagine", "I would like to find out"). Forbidden patterns (illustrative):
+
+> In this role the platform sits between the data scientists, a solutions architect and IT.
+
+> The role is largely that work.
+
+Better (illustrative):
+
+> I would like to understand how an AI service goes from idea to production in an organisation where so many depend on the data.
+
+A verifiable public fact about the organisation may be used sparingly, and only where it carries the motivation, for instance that the organisation maintains a standard its whole industry relies on. A fact that merely shows the applicant has read the advertisement or the website is cut.
+
+## Precise and proportionate background
+
+A reference to the applicant's background says something a reader understands and that matters in its context, or it is cut. Vague scope mixed with irrelevant detail is forbidden, because a tool list, or a range phrase such as "from Terraform to monitoring", tells the reader neither what was done nor why it matters here. One concrete, meaningful sentence does the work, for instance that having built and run a service oneself shows how much of the work begins after launch. In a short motivation text the background is mentioned at most once.
+
+Background references stay proportionate. One side project or demo is never elevated into a standalone achievement that carries the paragraph, and framings such as "on my own" or "alongside my employment" are forbidden where they dramatise its scale. Work the applicant does routinely is described as routine, briefly and in general terms. A showcase project belongs in the CV, where its stack is relevant, and not in the motivation text. Forbidden (illustrative):
+
+> Alongside my employment as a developer I have built and run an AI assistant on my own.
+
+An opening of the "I am writing to apply" family followed by a biography gives the reader a label where the frame belongs, and it fails; the letter's whole-to-detail obligation, per [whole_to_detail.md](../../../../core/packages/whole_to_detail/reference/whole_to_detail.md), is met by the motivation, in the applicant's own terms and without asserting what the role is, per "Humility toward the role" below. The first-lines check closes the opening: within the first few lines a reader can identify the role, the real reason for choosing this employer, and, from the paragraph that follows, the strongest relevant evidence.
+
+In a short application email, the opening may anchor on the build the applicant is proudest of ("The system I am proudest of is …", illustrative). The pride states a real stake in real work, and the sentence stays: replacing it with a neutral placeholder such as "a relevant example" loses the anchor and makes the sentence no truer. The build it names is a real one and meets the evidence rules in [claims_in_applications.md](claims_in_applications.md). The anchor is a stake and not a qualification recital, so it is followed by why that kind of work draws the applicant to this role, never by a list of how it matches the advertisement.
 
 ## The body supports the motivation with examples and the one connection
 
