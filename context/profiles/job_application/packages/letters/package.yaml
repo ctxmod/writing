@@ -1,0 +1,14 @@
+description: >-
+  Cover and personal letters: a job application makes claims about
+  the applicant's work and asks a screener to act on them in minutes;
+  the letter carries the reasoning for why the CV's inventory fits
+  one role, its opening gives the frame (the match, in the role's own
+  terms), every example arrives after the reader can interpret it,
+  and claims follow the application claims discipline (evidence
+  follows importance, delimited transfer, the stable fact base, the
+  deletion test). Answers in a form's short answer box follow the
+  correspondence profile's application answers; cold outreach to an
+  employer follows the sales_outbound profile; process questions
+  (whether a letter is included, how it is rendered) belong to the
+  repository that owns the pipeline.
+binds_to_depth: main...
