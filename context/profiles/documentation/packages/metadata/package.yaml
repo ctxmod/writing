@@ -1,0 +1,6 @@
+description: >-
+  Documentation metadata: a frontmatter schema for collections whose
+  tooling reads frontmatter, naming conventions for files,
+  directories, and identifiers, and versioning of documents and their
+  change history.
+binds_to_depth: main...

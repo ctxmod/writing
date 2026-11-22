@@ -1,0 +1,14 @@
+extends:
+  - github.com/ctxmod/writing/context/profiles/documentation
+title: Writing — Specification
+description: >-
+  Formal specifications: RFC 2119/8174 normative language and
+  conformance classes, the specification document schema and the
+  technical-specification file structure, multi-file specification
+  organization, and the specification procedures (template compliance,
+  subject-matter-expert review, version tracking, migration planning).
+  Extends the documentation profile.
+packages:
+  add:
+    - structure
+    - procedures

@@ -3,8 +3,15 @@ extends:
 title: Writing — Documentation
 description: >-
   Technical and professional documentation: task-oriented procedures,
-  terminology discipline, document-type selection, and the style
-  mechanics of reference prose.
+  terminology discipline, document-type selection, the style mechanics
+  of reference prose, audience calibration, section and navigation
+  structure, document metadata, content maintenance, and the general
+  and technical documentation procedures.
 packages:
   add:
     - forms
+    - audience
+    - structure
+    - metadata
+    - maintenance
+    - procedures
