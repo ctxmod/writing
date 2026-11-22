@@ -26,7 +26,7 @@ An unchecked point leads to a concrete change or a reasoned decision, never rout
 - The message survives forwarding and matches what the sender has said elsewhere and can actually deliver (§8).
 - Sender, recipient, links, attachments, dates and any promised reply time are checked.
 - The subject line and the close pass the per-sentence control question of the claims doctrine ([claims_and_evidence.md](../../../../core/packages/claims/reference/claims_and_evidence.md) §6), and the subject line states the message's intent and the role it concerns ([messages.md](../../replies/reference/messages.md)).
-- Prose written in English or Swedish to someone outside the sender's circle is checked for idiom written from the facts (English: ../../en/`american_spellings` (module `writing`, profile `american_english`, package `conventions`); Swedish: ../../sv/`sammansattningar` (module `writing_sv`, profile `core`, package `regler`)).
+- Prose written in English or Swedish to someone outside the sender's circle is checked for idiom written from the facts (English: the `write_from_facts` rule of the `translation` profile; Swedish: `svenska_fran_sakunderlaget` in the writing_sv module's `core` profile).
 
 ## The three tests
 
