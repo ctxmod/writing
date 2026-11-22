@@ -2,9 +2,13 @@ extends:
   - github.com/ctxmod/writing/context/profiles/core
 title: Writing — Prose
 description: >-
-  Essays, articles, and long-form prose for general audiences: openings,
-  visible reasoning, evidence discipline, and document shapes that hold
-  an argument together.
+  Essays, analyses, criticism, proposals, articles, and long-form prose
+  for general audiences: openings, visible reasoning, evidence
+  discipline, and document shapes that hold an argument together; the
+  argument as the through-line, contesting another author's actual
+  claim, fair tests, evaluative reasons for evaluative claims, scoped
+  norms, working with sources, and length that follows the argument.
 packages:
   add:
     - forms
+    - argument
