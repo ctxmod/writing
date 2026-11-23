@@ -1,6 +1,6 @@
 # Why machine-sounding text fails readers
 
-When a reader suspects that a text was produced by a machine on the sender's behalf, they read it as cheaper. They see less effort, less sincerity and less that is meant for them, and the discount falls on the sender as well as the text. The research below shows the effect, its limits, and why the repair is substance and ownership. Making the text look human is not the repair. The tests themselves are in [tell_catalogue.md](tell_catalogue.md).
+When a reader suspects that a text was produced by a machine on the sender's behalf, they read it as cheaper. They credit it with less effort and less sincerity, and the discount falls on the sender as well as the text. The research below shows the effect, its limits, and why the repair is substance and ownership. Making the text look human is not the repair. The tests themselves are in [tell_catalogue.md](tell_catalogue.md).
 
 ## 1. What readers do with suspected machine text
 

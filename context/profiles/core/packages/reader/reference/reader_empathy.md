@@ -16,7 +16,7 @@ Better-informed people cannot set aside what they know when they predict how a l
 
 The test is a marking pass. Read the draft as the named reader and mark every term, abbreviation, reference to an earlier event, unstated step and in-group name. For each mark, ask whether this reader holds it. The repair is local. Define the term where it first carries weight (the `define_before_use` rule of the `documentation` profile states the docs form), give the example that makes it concrete, or state the step that was skipped. The whole-to-detail rule that prerequisites come before what depends on them is the structural form of the same repair ([whole_to_detail.md](../../whole_to_detail/reference/whole_to_detail.md) §3).
 
-The repair cuts both ways. Explaining what the reader already holds is the same failure of modelling, seen from the other side, and catalogue entry 11 covers it ([catalogue.md](../../anti_patterns/reference/catalogue.md)). The reader is intelligent and outside the writer's head. A text that treats the reader as slow, or as a colleague who shares every assumption, has modelled someone else.
+The repair cuts both ways. Explaining what the reader already holds is the same failure of modeling, seen from the other side, and catalogue entry 11 covers it ([catalogue.md](../../anti_patterns/reference/catalogue.md)). The reader is intelligent and outside the writer's head. A text that treats the reader as slow, or as a colleague who shares every assumption, has modeled someone else.
 
 Pinker's remedy is the reliable one. When the stakes justify it, show the draft to someone who resembles the reader and watch where they stall. A reviewer who reads as the reader does the same work, which is why ISO 24495-1 judges plain language on readers and not on readability formulas.
 
@@ -24,7 +24,7 @@ Pinker's remedy is the reliable one. When the stakes justify it, show the draft 
 
 Readers arrive with a question, a task or a decision, and the text that answers it first respects them most ([answer_first.md](../../structure/rules/answer_first.md)). The question is the reader's, in the reader's terms. A writer who answers the question they would have liked to be asked has written for themselves.
 
-Some texts exist mainly for a relationship. A thank-you, an apology, a condolence, a congratulation or a reply to someone in difficulty carries little information, and what the reader needs from it is to be acknowledged accurately. Such a text names the specific thing (what the person did, what happened to them, what will change) and stops. Narrating the writer's own feelings at length moves the text's centre from the reader to the writer. The `correspondence` profile carries the genre form in `relational_messages`.
+Some texts exist mainly for a relationship. A thank-you, an apology, a condolence, a congratulation or a reply to someone in difficulty carries little information, and what the reader needs from it is to be acknowledged accurately. Such a text names the specific thing (what the person did, what happened to them, what will change) and stops. Narrating the writer's own feelings at length moves the text's center from the reader to the writer. The `correspondence` profile carries the genre form in `relational_messages`.
 
 ## 4. The reader's time
 
