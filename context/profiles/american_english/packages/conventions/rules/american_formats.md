@@ -14,12 +14,12 @@ way per document.
 
 Formats are the surface a reader's eye trips over first, and the
 divergences are exactly where a British-trained writer defaults
-wrong without noticing: the day-first instinct produces 4/10/2026 and
-misdates the document for an American reader by four months. Keep the
-numerals-and-words split from the shared number rules, and hold each
-format family — dates, times, money, percent — to one style per
-document; a page that mixes `9:30 a.m.` with `09:30` reads as
-unfinished rather than varied.
+wrong without noticing: the day-first instinct writes 4 October 2026
+as 4/10/2026, which an American reader takes for April 10, almost six
+months off. Keep the numerals-and-words split from the shared number
+rules, and hold each format family — dates, times, money, percent —
+to one style per document; a page that mixes `9:30 a.m.` with
+`09:30` reads as unfinished rather than varied.
 
 A date a reader sees is written out with the month as a word, in body
 text and in any visible "Published" or "Updated" line; ISO dates
