@@ -1,5 +1,6 @@
 description: >-
   Structure of documentation: navigation across multi-document trees,
-  construction of self-contained sections, and section hierarchy
-  within and across pages.
+  construction of self-contained sections, section hierarchy within
+  and across pages, and accessible content (alternative text, link
+  text, headings, color, WCAG 2.2).
 binds_to_depth: main...

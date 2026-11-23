@@ -40,7 +40,7 @@ Cross-references connect ideas without interrupting flow. They provide depth for
 - Prefer stable anchors (section headings) over fragile references (line numbers)
 - Distinguish internal from external links when the distinction matters
 
-Link text should set expectations. Readers evaluate whether a link serves their current goal based on the description. Vague references like "click here" or "see more" force unnecessary navigation.
+Link text should set expectations. Readers evaluate whether a link serves their current goal based on the description. Vague references like "click here" or "see more" force unnecessary navigation, and they fail readers who list a page's links out of context, as screen-reader users do; the accessibility duties for link text, alternative text, and headings are in [accessible_content.md](accessible_content.md).
 
 ## Signposting
 

@@ -20,6 +20,13 @@ Worked replacements: `utilize → use`, `prior to → before`,
 `in order to → to`, `at this point in time → now`,
 `is able to → can`.
 
+Plain words are one part of plain language, not the whole of it: ISO
+24495-1:2023 defines plain language by whether the intended readers
+can find, understand, and use the information, and judges it on
+readers rather than readability formulas. The standard's four
+principles and how they map onto this module are in
+[plain_language_standard.md](../reference/plain_language_standard.md).
+
 ## Precision and idiom
 
 Use precise technical terms when they do real work, and leave

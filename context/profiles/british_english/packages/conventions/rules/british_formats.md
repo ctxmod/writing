@@ -14,9 +14,9 @@ technical and tabular material (`20%`).
 
 Formats are the surface a reader's eye trips over first, and the
 divergences are exactly where an American-trained writer defaults
-wrong without noticing: the month-first instinct produces
-10/4/2026 and misdates the document by six months for a British
-reader. Keep the numerals-and-words split from the shared number
+wrong without noticing: the month-first instinct writes October 4,
+2026 as 10/4/2026, which a British reader takes for 10 April, almost
+six months off. Keep the numerals-and-words split from the shared number
 rules, and hold each format family — dates, times, money, percent —
 to one style per document, because a table that mixes `£4.50` with
 "four pounds fifty" reads as unfinished rather than varied.
