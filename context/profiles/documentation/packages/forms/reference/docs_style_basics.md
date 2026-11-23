@@ -46,3 +46,26 @@ an output example that no longer matches the real output is a bug
 report waiting to be filed. Inline code stays inline: a one-line
 fragment does not need a fence, and a fence does not need to
 interrupt a step that fits in one.
+
+## Where the commitments come from
+
+The four commitments match the two most widely used public
+documentation style guides, so a project that adopts either one keeps
+them. The Google developer documentation style guide addresses the
+reader as "you", prefers present tense, and puts titles and headings
+in sentence case; the Microsoft Writing Style Guide uses
+sentence-style capitalization for most titles and headings and
+reserves title case for product names and the titles of published
+works. Where a project's house guide differs, the house guide wins,
+held as consistently as these four.
+
+## Sources
+
+- https://developers.google.com/style/highlights — Google developer
+  documentation style guide highlights: second person, present tense,
+  sentence-case headings; accessed 2026-11-23.
+- https://developers.google.com/style/person — Google style guide on
+  second and first person; accessed 2026-11-23.
+- https://learn.microsoft.com/en-us/style-guide/capitalization —
+  Microsoft Writing Style Guide, sentence-style capitalization and its
+  title-case exceptions; accessed 2026-11-23.
