@@ -2,5 +2,7 @@ description: >-
   The standing quality gate every outward draft passes before it is
   reported done: read the governing rules before drafting,
   self-review against the tests, run the consuming repository's
-  mechanical scan, and validate with the whole gate.
+  mechanical scan, and validate with the whole gate; and the
+  reader_pass skill, the revision procedure that walks a draft through
+  the reader, integrity and machine-tell checks.
 binds_to_depth: main...
