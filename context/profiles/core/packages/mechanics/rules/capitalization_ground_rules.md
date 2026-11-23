@@ -6,16 +6,6 @@ attach to a name ("Director Chen" but "the director"). Everything else
 stays lowercase — job roles, product categories, seasons, directions
 ("head north"), and decades.
 
-## Rationale
+Hold one heading convention per document, sentence case or title case, through every subheading. Expand an acronym on first use and keep it uppercase after; keep a trademark's own styling ("iPhone"). When unsure whether a word is a proper noun, ask whether a specific, named referent exists: "the university", but "Uppsala University".
 
-Capitalization is a signal, and signals lose value when overused: a
-page of Title Case Every Noun forces the reader to weigh each capital
-for significance it does not carry. Pick one heading convention per
-document and hold it — sentence case ("How the indexer works") or
-title case ("How the Indexer Works") are both defensible, but the
-document must commit, including through subheadings. Acronyms expand
-on first use ("continuous integration (CI)") and stay uppercase after;
-brand-internal styling ("iPhone") survives as-is, since a trademark's
-spelling is not the writer's to normalize. When unsure whether a word
-is a proper noun, ask whether a specific, named referent exists —
-"the university" is lowercase, "Uppsala University" is not.
+Rationale: [mechanics_rationale.md](../reference/mechanics_rationale.md).
