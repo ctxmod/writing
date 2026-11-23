@@ -1,8 +1,9 @@
 description: >-
-  The anti-pattern catalogue: eleven patterns that lower a text's
+  The anti-pattern catalogue: fourteen patterns that lower a text's
   quality, each written as a test with a counter-example, a rewrite,
   and a narrow exception — lists, bold mini-headings, choppy salesy
-  lines, contrast for effect, meta statements, misplaced detail,
-  repetition, order of emphasis, question headings,
-  content-declaration openings, and hand-holding.
+  lines, contrast for effect and its variants, meta statements,
+  misplaced detail, repetition, order of emphasis, question headings,
+  content-declaration openings, hand-holding, triads by habit,
+  inflated significance, and commentary tails.
 binds_to_depth: main...
