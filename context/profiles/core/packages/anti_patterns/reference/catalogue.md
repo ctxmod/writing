@@ -114,6 +114,16 @@ Rewrite (sketch):
 
 > You pay a fixed price.
 
+The same test governs the pattern's variants, which are "not just X, but Y", "Y rather than X", "no X, no Y, just Z", and the two-sentence form "It's not about X. It's about Y." Each denies a position before stating its own, and each stays only when the reader holds the denied position. The variants are common in generated text, which is one reason readers notice them (see [tell_catalogue.md](../../machine_tells/reference/tell_catalogue.md)).
+
+Counter-example (illustrative):
+
+> It's not just an order system — it's a new way of working.
+
+Rewrite (sketch):
+
+> The project automates the validation and transfer of incoming orders.
+
 Exception: correcting a misconception the reader actually holds. The SAGE chapter on advance organizers gives this its legitimate form, the comparative organizer, which relates new material to what the reader already believes.
 
 ## 5. Meta and internal-structure statements
@@ -221,3 +231,45 @@ Rewrite (sketch): the paragraph is removed, because a fixed price already places
 > The price is calculated from the time each part is estimated to take, …
 
 Exception: an implication the reader would plausibly miss or misread, such as a legal or commercial consequence that does not follow from common understanding, is stated, as a term where it binds. This entry refines the restatement test of [cut_padding.md](../../basics/rules/cut_padding.md) for consequences rather than repeated claims; entry 7 covers material the text has already said, this entry material the text never needed to say.
+
+## 12. Triads by habit
+
+Test: a series of three in running prose has three members because the subject has three, and each member says something the other two do not. Three adjectives, three parallel phrases or three benefits where one or two carry the content and the rest fill out the rhythm fail. The filler dilutes the members that are true and invites the reader to discount all three. Paired near-synonyms doing one job are covered by [redundancy.md](../../basics/reference/redundancy.md); this entry covers the padded series.
+
+Counter-example (illustrative):
+
+> The project makes order handling faster, smarter and more efficient.
+
+Rewrite (sketch):
+
+> The project removes the manual check of each incoming order.
+
+Exception: three real, distinct members the reader needs, such as three steps, three options or three named systems. The count follows the content; a series is never padded to three, and a real third member is never cut to avoid the pattern.
+
+## 13. Inflated significance
+
+Test: a statement that something matters, marks a milestone, plays a pivotal role, reflects a broader trend or leaves a lasting mark is itself a claim, and it stays only when the reader needs that claim and the text gives its evidence. Significance asserted around a plain fact ("a testament to", "underscores the importance of", "a significant step in the journey toward") fails, because the reader learns nothing about the subject and is asked to feel something the text has not earned. The claims doctrine's rule that a mechanism outweighs a named quality applies ([claims_and_evidence.md](../../claims/reference/claims_and_evidence.md) § 8).
+
+Counter-example (illustrative):
+
+> The automated transfer marks a pivotal step in the client's digital transformation and underscores the importance of efficient processes.
+
+Rewrite (sketch), stating the fact the significance claim stood in for:
+
+> After the automated transfer, no order is typed into the business system by hand.
+
+Exception: significance argued with evidence where the significance is the point, such as an essay's thesis or a decision memo's recommendation.
+
+## 14. Commentary tails
+
+Test: a tail added to a statement ("…, highlighting …", "…, ensuring …", "…, reflecting …", "…, which underscores …") states a further fact. A tail that only comments on the statement, saying what it shows, what it means or what it proves about the author, fails; the reader can judge the statement, and the comment either repeats it or asks for credit. Tails that spell out an implication the reader already holds are covered by [redundancy.md](../../basics/reference/redundancy.md) and entry 11; this entry covers tails that evaluate.
+
+Counter-example (illustrative):
+
+> Every incoming order is validated automatically, highlighting the project's commitment to quality.
+
+Rewrite (sketch):
+
+> Every incoming order is validated automatically.
+
+Exception: a tail that carries a result the main clause does not ("…, which cut handling time from two days to two hours"), stated only when true and substantiated.
