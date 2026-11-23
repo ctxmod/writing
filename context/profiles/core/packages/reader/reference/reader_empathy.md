@@ -2,6 +2,10 @@
 
 A text succeeds when the person it was written for can find what they need, understand it, act on it, and come away sure that the writer had them in mind. Empathy in writing is the working discipline behind that outcome. The writer builds a model of one reader (what they already hold, what they came for, how much attention they will give) and writes to the model instead of to their own head. The sections below set out that model and the tests that keep a draft faithful to it. They apply in every genre; the genre profiles say where the reader differs.
 
+## Why the write_for_one_reader rule holds
+
+Writers model the reader badly by default. Knowing a subject makes it hard to imagine not knowing it (the curse of knowledge), most readers skim and give a text less time than the writer imagines, and a generic text tells its reader they were not worth the effort of a specific one.
+
 ## 1. Name the reader
 
 A text written for "the audience" drifts toward the average sentence, which fits no one in particular. Before drafting, name the reader and four facts about them. They are who the reader is in relation to the writer, what they already know about the subject, what they will do, decide or feel after reading, and how much time they will give the text. For a message the reader is the recipient. For a page it is the person who arrives with a task. For a document with several readers it is the primary one, and the others are served by placement (the "make available" and appendix tiers of [reader_order.md](../../whole_to_detail/rules/reader_order.md)) instead of by a text pitched between them.
@@ -54,7 +58,7 @@ The test: every sentence about the reader states something they told the writer,
 
 ## How to apply
 
-Run §1 before drafting anything outward, and §2 as a marking pass on every draft for a reader outside the writer's own working context. Check §3 against the opening, §4 against the first sentences and headings, and §5 sentence by sentence where the prose reads slowly. Use §6 as the swap test on any text addressed to a person, and §7 on every sentence whose subject is the reader. The [reader_pass](../../process/skills/reader_pass/SKILL.md) skill runs these checks together with the integrity and machine-tell checks.
+Run §1 before drafting anything outward, and §2 as a marking pass on every draft for a reader outside the writer's own working context. Check §3 against the opening, §4 against the first sentences and headings, and §5 sentence by sentence where the prose reads slowly. Use §6 as the swap test on any text addressed to a person, and §7 on every sentence whose subject is the reader. The [reader_pass](../../process/reference/reader_pass.md) procedure runs these checks together with the integrity and machine-tell checks.
 
 Related: [write_for_one_reader.md](../rules/write_for_one_reader.md), [author_integrity.md](../../integrity/reference/author_integrity.md), [why_machine_text_fails.md](../../machine_tells/reference/why_machine_text_fails.md), and `reader_intent` and `expertise` (module `writing`, profile `documentation`, package `audience`).
 
