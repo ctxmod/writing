@@ -11,7 +11,8 @@ description: >-
   answer matches the size of the question, and a pre-send pass checks
   grounds, forwarding, and answer cost. Also subject lines, explicit
   asks, scannable structure, and register tiers. Sales outreach builds
-  on this profile in sales_outbound.
+  on this profile in sales_outbound. Swedish conventions live in the
+  writing_sv module's korrespondens profile.
 packages:
   add:
     - forms
