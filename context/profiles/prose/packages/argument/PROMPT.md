@@ -2,7 +2,7 @@
 
 Essays follow the base writing rule and its references in full; this rule adds the genre layer. The opening states what the text defends, every section advances it, and the ending, the title and the standfirst claim what the body has earned. The argumentation, sources and claims principles in the base carry the tests; the genre file names the ones an essay fails most easily.
 
-- the argument as through-line, arguing with another author, evaluative reasons, historical evidence, length — <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::argument@prose/reference/essay_principles.md" />
+- the argument as through-line, arguing with another author, evaluative reasons, historical evidence, voice and ownership with the machine tells essays show most, length — <ctxmod_path path="ctx:github.com/ctxmod/writing/context::shared::argument@prose/reference/essay_principles.md" />
 
 The base files this genre rests on most directly:
 

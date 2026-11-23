@@ -6,7 +6,8 @@ description: >-
   matters most to the recipient, information order decided per
   message, the actual relationship, precision about what is known,
   the recipient's control, and the working order from intent to
-  outcome; plus the pre-send checks (hard stops, checklist,
-  interchangeability, forwarding and answer-cost tests, the final
-  control question).
+  outcome; relational messages (thanks, apology, condolence,
+  congratulation) and the email habits that read as machine-written;
+  plus the pre-send checks (hard stops, checklist, interchangeability,
+  forwarding and answer-cost tests, the final control question).
 binds_to_depth: main...

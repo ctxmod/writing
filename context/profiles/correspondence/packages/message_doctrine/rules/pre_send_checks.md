@@ -24,6 +24,7 @@ An unchecked point leads to a concrete change or a reasoned decision, never rout
 - The next step, where there is one, is intelligible, motivated, and possible for the recipient (§7).
 - The tone implies neither nonexistent insight, nor superiority, nor social obligation.
 - The message survives forwarding and matches what the sender has said elsewhere and can actually deliver (§8).
+- The sender would say every sentence to the recipient in person and stands behind it, the message carries nothing a template would contain, and a message whose job is the relationship (thanks, apology, condolence, congratulation) is the sender's own writing ([relational_messages.md](../reference/relational_messages.md); the core `integrity` and `machine_tells` packages).
 - Sender, recipient, links, attachments, dates and any promised reply time are checked.
 - The subject line and the close pass the per-sentence control question of the claims doctrine ([claims_and_evidence.md](../../../../core/packages/claims/reference/claims_and_evidence.md) §6), and the subject line states the message's intent and the role it concerns ([messages.md](../../replies/reference/messages.md)).
 - Prose written in English or Swedish to someone outside the sender's circle is checked for idiom written from the facts (English: the `write_from_facts` rule of the `translation` profile; Swedish: `svenska_fran_sakunderlaget` in the writing_sv module's `core` profile).
