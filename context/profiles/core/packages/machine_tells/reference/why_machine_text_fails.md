@@ -2,6 +2,10 @@
 
 When a reader suspects that a text was produced by a machine on the sender's behalf, they read it as cheaper. They credit it with less effort and less sincerity, and the discount falls on the sender as well as the text. The research below shows the effect, its limits, and why the repair is substance and ownership. Making the text look human is not the repair. The tests themselves are in [tell_catalogue.md](tell_catalogue.md).
 
+## Why the read_for_tells rule holds
+
+Readers who suspect a text was generated on the sender's behalf judge it as less sincere and its sender as less trustworthy, whether or not a machine was involved, and a polished text without substance shifts the work onto its reader. The tells matter as symptoms, since each usually marks a place where the author had nothing specific to say.
+
 ## 1. What readers do with suspected machine text
 
 Hancock, Naaman and Levy (2020) named the field. In AI-mediated communication an intelligent agent modifies, augments or generates messages on a communicator's behalf, and the authors argued that this changes how people judge each other through text. The experiments since then point the same way, with limits.

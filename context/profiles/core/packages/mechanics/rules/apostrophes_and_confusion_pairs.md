@@ -8,14 +8,6 @@ possessive pronouns: "it's" only ever means "it is" or "it has";
 "your" shows ownership, "you're" means "you are"; "their" shows
 ownership, "they're" means "they are", "there" points.
 
-## Rationale
+The substitution test settles every pair: read the sentence with the expansion ("it is late") and keep the spelling that survives. Plurals of abbreviations and years take no apostrophe (`three PhDs`, `the 1990s`), and a compound noun's possessive lands on the whole unit ("my sister-in-law's car").
 
-These errors cost disproportionate trust because they sit on the
-surface: a reader who spots "its" for "it is" stops checking whether
-the argument is sound and starts checking for the next mistake. The
-substitution test settles every pair in one move — read the sentence
-with the expansion ("it is late" / "the committee delayed its
-decision") and keep the spelling that survives. Watch the plurals of
-abbreviations and years, which take no apostrophe
-(`three PhDs`, `the 1990s`), and the possessive of compound nouns,
-which lands on the whole unit ("my sister-in-law's car").
+Rationale: [mechanics_rationale.md](../reference/mechanics_rationale.md).

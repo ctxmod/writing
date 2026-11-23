@@ -4,6 +4,4 @@ Before an outward text leaves, read it for the patterns readers associate with m
 
 When reviewing someone else's text, name the defect a tell points to ("generic", "unsourced", "restates the body") and never a suspected origin, because no tell proves who or what wrote a text.
 
-## Rationale
-
-Readers who suspect a text was generated on the sender's behalf judge it as less sincere and its sender as less trustworthy, whether or not a machine was involved, and a polished text without substance shifts the work onto its reader. The tells matter as symptoms, since each usually marks a place where the author had nothing specific to say. The evidence is in [why_machine_text_fails.md](../reference/why_machine_text_fails.md), and the tests, exceptions and non-tells in [tell_catalogue.md](../reference/tell_catalogue.md).
+Rationale and evidence: [why_machine_text_fails.md](../reference/why_machine_text_fails.md). The tests, exceptions and non-tells: [tell_catalogue.md](../reference/tell_catalogue.md).

@@ -10,21 +10,6 @@ noun/verb split needs it (`practice` for both noun and verb,
 before vowel suffixes: `traveled`, `canceled`, `modeling`,
 `counselor`.
 
-## Rationale
+The test is consistency within a document: one variety throughout, with no "organise" beside "organize". A proper name or an established technical term that fixes another spelling keeps it.
 
-Mixed spelling systems read as unchecked output, and the American
-set's traps are the inverse of the British ones: the `-l` words that
-stay single (`traveled`, `marveled`) and the noun/verb pairs that do
-not split (`practice`, `license`) are where drafts drift, because the
-words are shared with the other variety. Where a proper name or an
-established technical term fixes another spelling (`Colour Revision`
-as a product name, a quoted British text), the fixed spelling wins
-over the house set.
-
-The test is consistency within a document: a text that mixes
-"organise" with "organize", or "colour" with "behavior", reads as
-unedited, whichever variety it leans towards. American spelling is
-also the convention of the software industry and of most international
-technical markets, which makes it the usual choice for English
-technical and commercial text written outside an English-speaking
-country.
+Rationale: [american_conventions.md](../reference/american_conventions.md).

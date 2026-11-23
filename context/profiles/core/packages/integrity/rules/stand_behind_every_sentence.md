@@ -4,6 +4,4 @@ Every sentence of an outward text is one the author would say, in these words, t
 
 The test before sending: read each sentence as its author, asking "would I say this to them, and could I defend it?" A sentence that fails is rewritten until it passes or is cut, whoever drafted it.
 
-## Rationale
-
-Readers trust a text as far as they trust the person they believe stands behind it, and the first follow-up question exposes a sentence nobody owns. Borrowed experience and performed feeling fail at once when noticed, and a reader who suspects that a text was generated on the sender's behalf discounts both text and sender. The doctrine is in [author_integrity.md](../reference/author_integrity.md); disclosure is in [disclosing_assistance.md](../reference/disclosing_assistance.md).
+Rationale and doctrine: [author_integrity.md](../reference/author_integrity.md). Disclosure: [disclosing_assistance.md](../reference/disclosing_assistance.md).

@@ -2,6 +2,10 @@
 
 A reader gives a text the trust they give the person behind it. They assume the author means what it says, knows what it claims, and would answer for it if asked. Integrity is the author's side of that bargain. Every sentence belongs to the author, in substance and in wording, whoever helped produce it. The reader-side discipline is in [reader_empathy.md](../../reader/reference/reader_empathy.md); this file holds the author side, and [disclosing_assistance.md](disclosing_assistance.md) holds the question of when to say that help was used.
 
+## Why the stand_behind_every_sentence rule holds
+
+Readers trust a text as far as they trust the person they believe stands behind it, and the first follow-up question exposes a sentence nobody owns. Borrowed experience and performed feeling fail at once when noticed, and a reader who suspects that a text was generated on the sender's behalf discounts both text and sender.
+
 ## 1. Stand behind every sentence
 
 The test for each sentence: the author would say it, in these words, to this reader in person, and could answer a follow-up question about it. A sentence that passes is the author's even when someone else drafted it. One that fails is a liability even when it is true, because the reader will hold the author to it, and the first follow-up question will show that nobody stands behind it.
